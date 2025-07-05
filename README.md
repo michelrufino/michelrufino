@@ -2,7 +2,7 @@
 
 **`Desenvolvimento de Sistema`**
 
-👋 Olá! Meu nome é Michel da Costa Rufino e sou um profissional em transição de carreira dentro da área de Tecnologia da Informação.
+👋 Olá! Meu nome é [Michel da Costa Rufino](https://www.linkedin.com/in/michel-rufino/) e sou um profissional em transição de carreira dentro da área de Tecnologia da Informação.
 
 Após anos atuando com suporte à infraestrutura de TI — incluindo administração de servidores Windows, redes, virtualização, Active Directory, firewalls, backup, monitoramento e segurança da informação — decidi direcionar minha carreira para o desenvolvimento de software.
 
