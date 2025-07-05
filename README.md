@@ -6,7 +6,7 @@
 
 Após anos atuando com suporte à infraestrutura de TI — incluindo administração de servidores Windows, redes, virtualização, Active Directory, firewalls, backup, monitoramento e segurança da informação — decidi direcionar minha carreira para o desenvolvimento de software.
 
-Atualmente, estou focado em aprimorar minhas habilidades em Python, HTML, CSS, JavaScript e bancos de dados SQL, buscando constantemente novos desafios que me permitam aplicar minha bagagem técnica enquanto mergulho em novas tecnologias e práticas do desenvolvimento.
+Atualmente, estou focado em aprimorar minhas habilidades em HTML, CSS, JavaScript, NodeJS, React, Python, Docker e SQL buscando constantemente novos desafios que me permitam aplicar minha bagagem técnica enquanto mergulho em novas tecnologias e práticas do desenvolvimento.
 
 💡 Estou aberto a colaborações, projetos e oportunidades que envolvam aprendizado, inovação e crescimento na área de desenvolvimento!
 
