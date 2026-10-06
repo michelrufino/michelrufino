@@ -293,17 +293,15 @@ Automação, ERP TOTVS Datasul e Tecnologia**.
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=michelrufino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 20px;" 
+    src="https://github-readme-stats.vercel.app/api?username=michelrufino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=2" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelrufino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    style="padding-right: 20px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelrufino&theme=tokyonight&locale=pt-br&v=2" 
   />
-
-
-</p> 
+</p>
